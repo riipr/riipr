@@ -1,6 +1,7 @@
-yo, @riipr here
-previously learning networking, hardware, and basic programming but..
-I’m committing myself to learning cybersecurity in more deeper
+- yo, @riipr here
+- previously learning networking, hardware, and basic programming but..
+- I’m committing myself to learning cybersecurity in more deeper
+- discord: kw.br
 
 <!---
 riipr/riipr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
